@@ -2,7 +2,7 @@
 
 ## 🎥 Presentation Video
 
-[Click here to watch video]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/12qrWsrQx38lKtc1g1XZWy3WMIBGhJQRg/view?usp=sharing))
+[Click here to watch video](https://drive.google.com/file/d/12qrWsrQx38lKtc1g1XZWy3WMIBGhJQRg/view?usp=sharing)
 
 ## 📄 Certificate
 
